@@ -4,7 +4,7 @@ Statement: The purpose of this repo is just to keep track of the progression of 
 1. Supervised ML Algorithms:
    - Logistic Regression (almost complete)
    - Multiple Linear Regression (almost complete)
-   - Gaussian Process (todo)
+   - Gaussian Process (almost complete)
 2. Unsupervised ML Algorithms: (todo)
 3. Reinforcement Learning: (todo)
 4. Clustering Algorithms: (todo)
