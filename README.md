@@ -22,7 +22,9 @@ Statement: The purpose of this repo is just to keep track of the progression of 
     * Implementation
         * Define prior & posterior predictive for GP (done)
         * Prediction with noise-free & noise assumption (done)
-        * Examine the affect of hyper parameters of kernel function & noise parameter of data (todo)
+        * Examine the affect of hyper parameters of kernel function & noise parameter of data (done)
+        * Implementation of GP in higher dimension (done)
+        * Libraries of GP implementation (todo)
 2. Unsupervised ML Algorithms: (todo)
 3. Reinforcement Learning: (todo)
 4. Clustering Algorithms: (todo)
